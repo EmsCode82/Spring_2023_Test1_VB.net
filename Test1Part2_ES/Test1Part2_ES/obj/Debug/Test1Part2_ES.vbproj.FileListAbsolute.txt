@@ -1,0 +1,24 @@
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\bin\Debug\Test1Part2_ES.exe.config
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\bin\Debug\Test1Part2_ES.exe
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\bin\Debug\Test1Part2_ES.pdb
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\bin\Debug\Test1Part2_ES.xml
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.vbproj.AssemblyReference.cache
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.Form1.resources
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.Resources.resources
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.vbproj.GenerateResource.cache
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.vbproj.CoreCompileInputs.cache
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.exe
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.xml
+C:\Users\e5sco\source\repos\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.pdb
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\bin\Debug\Test1Part2_ES.exe.config
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\bin\Debug\Test1Part2_ES.exe
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\bin\Debug\Test1Part2_ES.pdb
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\bin\Debug\Test1Part2_ES.xml
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.vbproj.AssemblyReference.cache
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.Resources.resources
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.vbproj.GenerateResource.cache
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.vbproj.CoreCompileInputs.cache
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.exe
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.xml
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.pdb
+C:\Users\e5sco\Desktop\Week 5\Test1Part2_ES\Test1Part2_ES\obj\Debug\Test1Part2_ES.frmConcertTickets.resources
